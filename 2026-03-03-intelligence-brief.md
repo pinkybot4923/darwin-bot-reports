@@ -1,28 +1,30 @@
-# Darwin's Daily Intel: Tue Mar 03, 2026 🐢
+# 🐢 Darwin's Daily Intel: 2026-03-03
 
-## 1. 🚨 Threat Matrix
-**Status:** 🔴 **CRITICAL**
+## 1. 🚢 Threat Matrix
+*   **0** High Risk Vessels detected (Foreign vessels inside MPA).
+*   **14** Medium/Low Risk Vessels detected (Authorized artisanal/domestic activity).
 
-| Risk | Vessel Name | Flag | Activity Location | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| 🔴 **HIGH** | **DAPHNE DAVID** | 🇪🇨 ECU | **INSIDE MPA** (Region 11753) | Multiple intrusions detected (Feb 24, 26, 27). High-frequency repeat offender. |
-| 🔴 **HIGH** | **LA CANGREJA** | 🇪🇨 ECU | **INSIDE MPA** (Region 11753) | Daily activity inside the reserve from Feb 24–27. Persistent intrusion. |
-| 🔴 **HIGH** | **BRILLO DE MAR III** | 🇪🇨 ECU | **INSIDE MPA** (Region 11753) | Continued presence in the no-take zone (Feb 25). |
-| 🔴 **HIGH** | **KASTDALEN / 7 MARES I** | 🇪🇨 ECU | **INSIDE MPA** (Region 11753) | Single-day incursions detected recently. |
-| 🟠 **MED** | **JOSMARY / ARC ADE NOE III** | 🇪🇨 ECU | EEZ (Region 8403) | Operating in the wider EEZ buffer zone. |
+### Activity Detail:
+*   **JOSMARY (ECU):** Fishing in EEZ (8403) - 2026-02-25.
+*   **ARC ADE NOE III (ECU):** Fishing in EEZ (8403) and High Seas pockets - 2026-02-24/26.
+*   **KASTDALEN (ECU):** Fishing inside GMR (11753) - 2026-02-24. (Authorized domestic).
+*   **7 MARES I (ECU):** Fishing inside GMR (11753) - 2026-02-27. (Authorized domestic).
+*   **DAPHNE DAVID (ECU):** Multiple fishing events inside GMR (11753) - 2026-02-24/27.
+*   **MILENY (ECU):** Fishing inside GMR (11753) - 2026-02-25.
+*   **ENDERBY (ECU):** Multiple fishing events inside GMR (11753) - 2026-02-26/27.
+*   **LA CANGREJA (ECU):** Multiple fishing events inside GMR (11753) - 2026-02-24/27.
+*   **PUYO (ECU):** Fishing inside GMR (11753) - 2026-02-24.
 
-## 2. 🚢 Activity Summary
-There is a **significant surge in domestic fishing activity inside the core Galapagos Marine Reserve (MPA)**. Over 8 separate vessels have been detected penetrating the MPA boundaries in the last 48 hours. Most are Ecuadorian coastal vessels, suggesting a breakdown in local enforcement or a seasonal push by the domestic fleet. No foreign fleet incursions detected.
+## 2. 🌍 News & Intel
+### Official Updates (DPNG):
+*   **[Un regreso a casa para Floreana](https://galapagos.gob.ec/un-regreso-a-casa-para-floreana/):** (2026-02-25) Update on the ecological restoration project for Floreana Island.
 
-## 3. 🌍 News & Intel
+### Science & Conservation (CDF):
+*   **[Cold Currents, Big Predators](https://www.darwinfoundation.org/en/news/all-news-stories/cold-currents-big-predators-the-seasonal-pulse-of-predatory-fish-and-sharks-in-the-northern-galapagos-islands-of-darwin-and-wolf/):** (2026-02-27) Study reveals fish biomass triples in Darwin and Wolf during cold season due to hammerhead migration.
 
-### 🏛️ Official Updates
-*   *(No new interdiction reports from Navy/DPNG as of 06:30 EST)*
+## 3. 🌤️ Environmental Brief
+*   **Puerto Ayora:** 25.8°C, Wind 3.7 km/h. Mostly clear.
+*   **Condition:** Normal operations.
 
-### 🔬 Scientific & Conservation
-*   **Tortoise Restoration:** (Continuing) 158 giant tortoises released on Floreana Island remain the focus of regional ecological headlines.
-*   **Shark Alert:** The CDF "Cold Currents" report continues to be relevant as predator activity peaks in the northern sector.
-
-## 4. 🌤️ Ecological & Political Brief
-*   **Weather (Puerto Ayora):** 25.8°C, Partly Cloudy. Light NNE winds. Excellent visibility for aerial/maritime surveillance.
-*   **Urgent Recommendation:** The volume of MPA intrusions (DAPHNE DAVID, LA CANGREJA) warrants an immediate tasking of the Ecuadorian Coast Guard for site inspections in the central sector of the GMR.
+---
+*Report manually generated due to cron timeout.*
