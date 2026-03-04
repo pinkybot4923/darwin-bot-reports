@@ -6,15 +6,19 @@
 
 ### High Risk Activity (MPA Incursion):
 *   🔴 **TUNAMAR** (PAN)
-    *   **IMO:** 7409138 | **MMSI:** 355121000 | **Call Sign:** HO3419
+    *   **Identifiers:** IMO 7409138 | MMSI 355121000 | Call Sign HO3419
     *   **Activity:** Fishing inside **Reserva Marina Hermandad** (MPA).
     *   **Location:** 1.9°N, 90.2°W (Northern EEZ/Hermandad sector).
     *   **Date:** 2026-02-28 (Latest available data).
     *   **Status:** **Unauthorized**. Fishing detected within a protected area.
+    *   **⚠️ Entity Profile:**
+        *   **Registered Owner:** **America Tower I Corporación** (Panama).
+        *   **Operator/Manager:** **Marpesca** (Marpesca S.A.).
+        *   **Context:** This vessel is listed in the *Eastern Pacific Ocean purse seine tuna FIP* (Fishery Improvement Project). An MPA incursion may violate their FIP sustainability commitments.
 
 ### Medium Risk Activity (EEZ Foreign Flag):
 *   🟠 **DALMACIA C** (PAN)
-    *   **IMO:** 8908662 | **MMSI:** 356226000 | **Call Sign:** HP5683
+    *   **Identifiers:** IMO 8908662 | MMSI 356226000 | Call Sign HP5683
     *   **Activity:** Fishing in EEZ (8403).
     *   **Location:** South of Galapagos (~2.7°S, 89.0°W).
     *   **Date:** 2026-02-27.
