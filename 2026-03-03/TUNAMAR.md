@@ -16,6 +16,8 @@
 | **Length x Beam** | 76.75m x 13.5m |
 | **Registered Owner** | America Tower I Corporación (Panama) |
 | **Commercial Operator** | **Marpesca S.A.** |
+| **Authorizations** | IATTC (Valid to 2026-01-01) |
+| **AIS Risk** | Coverage: 24.5% (Low), Gaps: 9 (Recent) |
 
 ## 2. Incident Details
 *   **Detection Source:** Global Fishing Watch (AIS Algorithms)
