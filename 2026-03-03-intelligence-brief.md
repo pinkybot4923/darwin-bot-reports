@@ -5,14 +5,16 @@
 *   **1** Medium Risk Vessel detected.
 
 ### High Risk Activity (MPA Incursion):
-*   🔴 **TUNAMAR (PAN)** - SSVID: 355121000
+*   🔴 **TUNAMAR** (PAN)
+    *   **IMO:** 7409138 | **Call Sign:** HO3419 | **SSVID:** 355121000
     *   **Activity:** Fishing inside **Reserva Marina Hermandad** (MPA).
     *   **Location:** 1.9°N, 90.2°W (Northern EEZ/Hermandad sector).
     *   **Date:** 2026-02-28 (Latest available data).
     *   **Status:** **Unauthorized**. Fishing detected within a protected area.
 
 ### Medium Risk Activity (EEZ Foreign Flag):
-*   🟠 **DALMACIA C (PAN)** - SSVID: 356226000
+*   🟠 **DALMACIA C** (PAN)
+    *   **IMO:** 8908662 | **Call Sign:** HP5683 | **SSVID:** 356226000
     *   **Activity:** Fishing in EEZ (8403).
     *   **Location:** South of Galapagos (~2.7°S, 89.0°W).
     *   **Date:** 2026-02-27.
