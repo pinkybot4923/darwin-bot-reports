@@ -1,19 +1,26 @@
 # 🐢 Darwin's Daily Intel: 2026-03-03
 
 ## 1. 🚢 Threat Matrix
-*   **0** High Risk Vessels detected (Foreign vessels inside MPA).
-*   **14** Medium/Low Risk Vessels detected (Authorized artisanal/domestic activity).
+*   **1** High Risk Vessel detected.
+*   **1** Medium Risk Vessel detected.
 
-### Activity Detail:
-*   **JOSMARY (ECU):** Fishing in EEZ (8403) - 2026-02-25.
-*   **ARC ADE NOE III (ECU):** Fishing in EEZ (8403) and High Seas pockets - 2026-02-24/26.
-*   **KASTDALEN (ECU):** Fishing inside GMR (11753) - 2026-02-24. (Authorized domestic).
-*   **7 MARES I (ECU):** Fishing inside GMR (11753) - 2026-02-27. (Authorized domestic).
-*   **DAPHNE DAVID (ECU):** Multiple fishing events inside GMR (11753) - 2026-02-24/27.
-*   **MILENY (ECU):** Fishing inside GMR (11753) - 2026-02-25.
-*   **ENDERBY (ECU):** Multiple fishing events inside GMR (11753) - 2026-02-26/27.
-*   **LA CANGREJA (ECU):** Multiple fishing events inside GMR (11753) - 2026-02-24/27.
-*   **PUYO (ECU):** Fishing inside GMR (11753) - 2026-02-24.
+### High Risk Activity (MPA Incursion):
+*   🔴 **TUNAMAR (PAN)** - SSVID: 355121000
+    *   **Activity:** Fishing inside **Reserva Marina Hermandad** (MPA).
+    *   **Location:** 1.9°N, 90.2°W (Northern EEZ/Hermandad sector).
+    *   **Date:** 2026-02-28 (Latest available data).
+    *   **Status:** **Unauthorized**. Fishing detected within a protected area.
+
+### Medium Risk Activity (EEZ Foreign Flag):
+*   🟠 **DALMACIA C (PAN)** - SSVID: 356226000
+    *   **Activity:** Fishing in EEZ (8403).
+    *   **Location:** South of Galapagos (~2.7°S, 89.0°W).
+    *   **Date:** 2026-02-27.
+    *   **Status:** Pending IATTC authorization. Operating in EEZ.
+
+### Activity Trends (Last 7 Days)
+*   Daily fishing events in EEZ: ~11-16 per day.
+*   Data lag: ~72 hours (Latest data from Feb 28).
 
 ## 2. 🌍 News & Intel
 ### Official Updates (DPNG):
@@ -23,8 +30,5 @@
 *   **[Cold Currents, Big Predators](https://www.darwinfoundation.org/en/news/all-news-stories/cold-currents-big-predators-the-seasonal-pulse-of-predatory-fish-and-sharks-in-the-northern-galapagos-islands-of-darwin-and-wolf/):** (2026-02-27) Study reveals fish biomass triples in Darwin and Wolf during cold season due to hammerhead migration.
 
 ## 3. 🌤️ Environmental Brief
-*   **Puerto Ayora:** 25.8°C, Wind 3.7 km/h. Mostly clear.
-*   **Condition:** Normal operations.
-
----
-*Report manually generated due to cron timeout.*
+*   **Puerto Ayora:** 27°C (81°F), Wind 2 mph. Humidity 71%.
+*   **Condition:** Warm and calm. Good visibility for patrols.
