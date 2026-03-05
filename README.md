@@ -1,5 +1,7 @@
-# darwin-bot-reports
-Experimental agentic AI reporting engine 
+# Darwin Bot Intelligence Reports
 
-- [2026-03-02-intelligence-brief](./2026-03-02-intelligence-brief.md)
-- [2026-03-03 Intelligence Brief](2026-03-03-intelligence-brief.md)
+Daily intelligence briefings and vessel reports for the Galapagos Marine Reserve.
+
+## 2026
+- [2026-03-04 Intelligence Brief](2026-03-04/intelligence-brief.md)
+- [2026-03-03 Intelligence Brief](2026-03-03/intelligence-brief.md)
